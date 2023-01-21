@@ -2,4 +2,4 @@ FROM tomcat:latest
 
 MAINTAINER "rohiniadsul01@gmail.com"	
 
-COPY ./webapp.war /usr/local/tomcat/webapps
+COPY ./webapp-1.3.5.RELEASE.war /usr/local/tomcat/webapps
