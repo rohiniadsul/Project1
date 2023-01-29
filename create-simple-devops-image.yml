@@ -17,5 +17,5 @@
       
     - name: remove docker images from ansible server
       command: docker rmi tomcat simple-devops-image:latest rohiniadsul/simple-devops-image
-      ignore-errors: yes
+      ignore_errors: yes
       
