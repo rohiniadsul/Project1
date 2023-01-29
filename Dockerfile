@@ -1,4 +1,4 @@
-FROM tomcat:latest
+From tomcat:latest
 
 MAINTAINER "rohiniadsul01@gmail.com"	
 
