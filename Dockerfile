@@ -1,4 +1,4 @@
-From tomcat:latest
+FROM tomcat:8.0-alpine
 
 MAINTAINER "rohiniadsul01@gmail.com"	
 
